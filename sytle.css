@@ -1,0 +1,15 @@
+body{
+    margin:0;
+    padding:0;
+    border:0;
+}
+header{
+    text-align: center;
+    background-color: black;
+    color: red;
+    padding: 2rem;
+    font-size: 2rem;
+}
+div{
+    text-align: center;
+}
